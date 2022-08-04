@@ -1,4 +1,4 @@
-# spotify-cover-art-serverless-function
+# Spotify Cover-art Serverless Function
 
 ## **Author:** Thomas Basham
 
@@ -10,8 +10,16 @@ retrieve html for an iFrame with a Spotify media player for that song.
 
 ## Deployed Functions
 
-[https://spotify-cover-art-serverless-function.vercel.app/api/cover-art?spotifyurl= < spotify track url here > ](https://spotify-cover-art-serverless-function.vercel.app/api/cover-art?spotifyurl=http://open.spotify.com/track/0UJTi2a46HRnFD8wGFYjil?si=db7b62083e8c4253)
+[https://spotify-cover-art-serverless-function.vercel.app/api/spotify-data?spotifyurl= < Spotify Song Link here > ](https://spotify-cover-art-serverless-function.vercel.app/api/cover-art?spotifyurl=https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=54f5722a4c5f482e)
 
+## How to use 
+
+**Copy This link to get Spotify Song Link**
+<img src="/Users/Basham/Documents/GitHub/Personal-Projects/spotify-cover-art-serverless-function/screen-shot.png">
+
+Then send a http GET request (or just enter into your browser)
+
+https://spotify-cover-art-serverless-function.vercel.app/api/spotify-data?spotifyurl= < Spotify Song Link > 
 ## Resources
 [Vercel](https://vercel.com/docs/concepts/functions/serverless-functions/supported-languages#python)
 
