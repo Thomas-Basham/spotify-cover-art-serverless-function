@@ -12,7 +12,7 @@ retrieve html for an iFrame with a Spotify media player for that song.
 
 ## Deployed Functions
 
-[https://spotify-cover-art-serverless-function.vercel.app/api/spotify-data?spotifyurl= < Spotify Song Link here > ](https://spotify-cover-art-serverless-function.vercel.app/api/cover-art?spotifyurl=https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=54f5722a4c5f482e)
+[https://spotify-cover-art-serverless-function.vercel.app/api/spotify-data?spotifyurl= < Spotify Song Link here > ](https://spotify-cover-art-serverless-function.vercel.app/api/spotify-data?spotifyurl=https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=54f5722a4c5f482e)
 
 ## How to use 
 
