@@ -17,7 +17,7 @@ retrieve html for an iFrame with a Spotify media player for that song.
 ## How to use 
 
 **Copy This link to get Spotify Song Link**
-<img src="/Users/Basham/Documents/GitHub/Personal-Projects/spotify-cover-art-serverless-function/screen-shot.png">
+<img src="screen-shot.png" alt="helper screen shot">
 
 Then send a http GET request (or just enter into your browser)
 
