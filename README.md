@@ -1,5 +1,7 @@
 # Spotify Cover-art Serverless Function
 
+[![Python application](https://github.com/Thomas-Basham/spotify-cover-art-serverless-function/actions/workflows/python-app.yml/badge.svg)](https://github.com/Thomas-Basham/spotify-cover-art-serverless-function/actions/workflows/python-app.yml)
+
 ## **Author:** Thomas Basham
 
 ### Description
